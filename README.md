@@ -24,6 +24,8 @@ Hi,I'm Ekin Atasoy and author of this repo. When creating this app i used some o
 - Swift UIKit,
 - CoreData,
 - AVFoundation.
-https://github.com/observer23/VeroTask/blob/main/screenshots/ss1.png
-And some screenshots you can find below. Enjoy 🙌
-<img src="https://github.com/observer23/VeroTask/blob/main/screenshots/ss1.png" width=30% height=30%><img src="https://github.com/observer23/VeroTask/blob/main/screenshots/ss2.png" width=30% height=30%><img src=https://github.com/observer23/VeroTask/blob/main/screenshots/ss3.png width=30% height=30%>
+  
+And some screenshots. Enjoy 🙌
+
+
+<img src="https://github.com/observer23/VeroTask/blob/main/screenshots/ss1.png" width=30% height=30%>  <img src="https://github.com/observer23/VeroTask/blob/main/screenshots/ss2.png" width=30% height=30%>  <img src=https://github.com/observer23/VeroTask/blob/main/screenshots/ss3.png width=30% height=30%>
